@@ -40,7 +40,7 @@ The students edit this section to add their names, Uniandes emails, and specify 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This is a template repository to use in the laboratories in the data structures and algorithms (#EDA) course at Uniandes.
+This is a template repository to use in the laboratories in the data structures and algorithms (#EDA) course at Uniandes
 
 **IMPORTANT** This is a work in progress and is part of a teaching framework for undergraduate college students at Universidad de los Andes. This project Is NOT intended as a full-functional source code project.
 
